@@ -27,7 +27,6 @@ Collection Types에는 ~
 
 # 스터디 리뷰
 Collection Types에 대해 알게 되었습니다.
-
 ```
 - 타이틀을 제외한 상세 내용은 자유롭게 작성
 

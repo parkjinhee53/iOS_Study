@@ -37,7 +37,11 @@ Collection Types에 대해 알게 되었습니다.
 - Optional이란 무엇인가?
 - struct와 class의 차이는 무엇인가?
 
-[2주차]
+[[2주차]](https://github.com/dogVelopers/iOS_Study/blob/main/Study/week2.md)
 - 1주차 스터디 마지막 문제에 대한 답 (ARC)
 - Functions 사용법에 대하여
 - Closures 사용법에 대하여
+
+[3주차]
+- 참조 키워드, Strong, Weak, Unowned에 대하여
+- protocol이란 무엇인가?

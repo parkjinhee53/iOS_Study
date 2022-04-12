@@ -42,6 +42,6 @@ Collection Types에 대해 알게 되었습니다.
 - Functions 사용법에 대하여
 - Closures 사용법에 대하여
 
-[3주차]
+[[3주차]](https://github.com/dogVelopers/iOS_Study/blob/main/Study/week3.md)
 - 참조 키워드, Strong, Weak, Unowned에 대하여
 - protocol이란 무엇인가?
